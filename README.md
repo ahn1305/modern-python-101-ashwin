@@ -31,3 +31,15 @@ Python recap exercise by following this youtube video: <a href = "https://www.yo
 - ⌨️ (0:55:44) If/Else
 
 </details>
+
+<details open>
+<summary><b>DAY 2(23-12-2022)</b></summary>
+<br>
+
+- ⌨️ (1:03:41) And/Or
+- ⌨️ (1:15:14) For Loops
+- ⌨️ (1:17:31) While Loops
+- ⌨️ (1:30:05) Match Operator
+- ⌨️ (1:35:48) Game - Save Zortan
+
+</details>
